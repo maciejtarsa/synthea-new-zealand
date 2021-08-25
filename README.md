@@ -38,8 +38,8 @@ GeoPy was also used to produce file `zipcodes.csv`, which include postcode and g
 In order to run Synthea for the population of New Zealand, follow the following steps. This will generate 10 synthetic patients from New Zealand.
 ```
 git clone https://github.com/synthetichealth/synthea
-git clone https://github.com/maciejtarsa/Synthea-adaptation-for-New-Zealand
-cd Synthea-adaptation-for-New-Zealand
+git clone https://github.com/maciejtarsa/synthea-new-zealand
+cd synthea-new-zealand
 cp -R nz/* ../synthea
 cd ../synthea
 ./run_synthea -p 10
