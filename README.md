@@ -10,7 +10,7 @@ The list of hospitals was obtained from New Zealand's Ministry of Health.
 Source: https://www.health.govt.nz/your-health/services-and-support/certified-providers
 
 ## Tools
-All analysis was conducted in Jupyer Notebook using Google Colab. Python packages used included Pandas and GeoPy.
+All processing was conducted in Jupyer Notebook using Google Colab. Python packages used included Pandas and GeoPy. Details of the processing are in the jupyter files: `demographics.ipynb`, `hospitals.ipynb`, `timezones.ipynb` and `zipcodes.ipynb`.
 
 ## Data processing
 For adaptation to other countries, Synthea requires a very specific set of files with specific information included. The following files needed adapting:<br><br>
