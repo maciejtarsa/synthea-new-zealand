@@ -35,7 +35,7 @@ Obtaining region per area was difficult as I was unable to find a complete list 
 GeoPy was also used to produce file `zipcodes.csv`, which include postcode and geographical coordinates for each area from file `demographics.csv`, as well as `hospitals.csv` which contain location of hospitals in New Zealand.
 
 ## Running in Synthea
-In order to run Synthea for the population of New Zealand, follow the following steps. This will generate 10 synthetic patients from New Zealand.
+In order to run Synthea for the population of New Zealand, follow the following steps. This will generate 10 synthetic patients from New Zealand living in the area of Wellington, location Glendale.
 ```
 rm -rf synthea
 
@@ -45,5 +45,5 @@ git clone https://github.com/maciejtarsa/synthea-new-zealand
 cd synthea-new-zealand
 cp -R nz/* ../synthea
 cd ../synthea
-./run_synthea -p 10 Wellington Otago
+./run_synthea -p 10 Wellington Glendale
 ```
