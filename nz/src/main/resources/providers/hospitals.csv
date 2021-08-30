@@ -1,0 +1,156 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,0,Auckland City Hospital,2 Park Road,Grafton,Auckland,1023,Auckland District Health Board,,Public Hospital,,,,-41.25916475,174.7670579
+1,1,Auckland DHB X 3 Units - Mental Health,2 Park Road,Grafton,Auckland,1023,Auckland District Health Board,,Public Hospital,,,,-39.6393198,176.8365016
+2,2,Buchanan Rehabilitation Centre,27 Sutherland Road,Point Chevalier,Auckland,1025,Auckland District Health Board,,Public Hospital,,,,-41.3166673,174.7791441
+3,3,Greenlane Clinical Centre,214 Green Lane West,Epsom,Auckland,1051,Auckland District Health Board,,Public Hospital,,,,-37.7914612,175.2851755
+4,4,Tauranga Hospital,829 Cameron Road,Tauranga South,Tauranga,3112,Bay of Plenty District Health Board,,Public Hospital,,,,-40.337336,175.6163028
+5,5,Whakatane Hospital,33 Stewart Street,,Whakatane,3120,Bay of Plenty District Health Board,,Public Hospital,,,,-45.8523532,170.4593955
+6,6,Ashburton Hospital,34 Elizabeth Street,Allenton,Ashburton,7700,Canterbury District Health Board,,Public Hospital,,,,-39.9295215,175.0506686
+7,7,Burwood Hospital,255 Mairehau Road,Burwood,Christchurch,8083,Canterbury District Health Board,,Public Hospital,,,,-44.3946634,171.2424688
+8,8,Chatham Island Health Centre,6 Hospital Road,Chatham Island,Chatham Island,8013,Canterbury District Health Board,,Public Hospital,,,,-36.8622095,174.7796385
+9,9,Christchurch Hospital,2 Riccarton Avenue,Christchurch Central,Christchurch,8011,Canterbury District Health Board,,Public Hospital,,,,-37.555713,175.1604751
+10,10,Darfield Hospital,31 Mathias Street,,Darfield,7510,Canterbury District Health Board,,Public Hospital,,,,-37.6936595,176.1071535
+11,11,Ellesmere Hospital,25 Cunningham Street,,Leeston,7632,Canterbury District Health Board,,Public Hospital,,,,-36.9708868,174.7992164
+12,12,Hillmorton Hospital,1 Lincoln Road,Spreydon,Christchurch,8024,Canterbury District Health Board,,Public Hospital,,,,-41.2039644,174.9120569
+13,13,Kaikoura Hospital,25 Deal Street,,Kaikoura,7300,Canterbury District Health Board,,Public Hospital,,,,-41.2033481,174.9263451
+14,14,Lincoln Maternity Hospital,35 James Street,,Lincoln,7608,Canterbury District Health Board,,Public Hospital,,,,-37.8078978,175.2789925
+15,15,Oxford Hospital,37 Park Avenue,,Oxford,7430,Canterbury District Health Board,,Public Hospital,,,,-45.1919951,169.3210276
+16,16,Rangiora Hospital,161 Ashley Street,,Rangiora,7400,Canterbury District Health Board,,Public Hospital,,,,-46.1348074,168.3259065
+17,17,The Princess Margaret Hospital,97 Cashmere Road,Cashmere,Christchurch,8022,Canterbury District Health Board,,Public Hospital,,,,-45.253165,169.3878979
+18,18,Tuarangi Home,270 Cameron Street,,Ashburton,7700,Canterbury District Health Board,,Public Hospital,,,,-46.236754,169.7395687
+19,19,Waikari Hospital,16 Littles Drive,,Waikari,7420,Canterbury District Health Board,,Public Hospital,,,,-36.292827,174.524486
+20,20,Kapiti Health Centre,35 Warrimoo Street,,Paraparaumu,5032,Capital and Coast District Health Board,,Public Hospital,,,,-40.3490226,175.6116388
+21,21,Kenepuru Hospital,16 Hospital Drive,,Porirua,5022,Capital and Coast District Health Board,,Public Hospital,,,,-36.8800923,174.7724292
+22,22,Porirua Hospital Campus (Mental Health Services),16 Hospital Drive,,Porirua,5022,Capital and Coast District Health Board,,Public Hospital,,,,-43.5262993,172.6378126
+23,23,Wellington Hospital,39 Riddiford Street,Newtown,Wellington,6021,Capital and Coast District Health Board,,Public Hospital,,,,-37.2076533,174.9073996
+24,24,Wellington Hospital (Mental Health Services),39 Riddiford Street,Newton,Wellington,6021,Capital and Coast District Health Board,,Public Hospital,,,,-46.1031953,168.937388
+25,25,Auckland Spinal Rehabilitation ,30 Bairds Road,Papatoetoe,Auckland,2025,Counties Manukau District Health Board,,Public Hospital,,,,-36.675681,174.451024
+26,26,Botany Downs Hospital,292 Botany Road,Golflands,Auckland,2013,Counties Manukau District Health Board,,Public Hospital,,,,-36.9213369,174.9129991
+27,27,Franklin Memorial Hospital,75 Kitchener Road,,Waiuku,2123,Counties Manukau District Health Board,,Public Hospital,,,,-39.0735868,174.0583019
+28,28,Manukau Surgery Centre,901 Great South Road,Wiri,Auckland,2104,Counties Manukau District Health Board,,Public Hospital,,,,-39.907202,175.026629
+29,29,Middlemore Hospital,100 Hospital Road,Mangere East,Auckland,2025,Counties Manukau District Health Board,,Public Hospital,,,,-35.7086063,174.3202002
+30,30,Papakura Obstetric Hospital,2 Clevedon Road,,Papakura,2110,Counties Manukau District Health Board,,Public Hospital,,,,-41.2785985,173.2904762
+31,31,Pukekohe Hospital,82 Kitchener Road,,Pukekohe,2120,Counties Manukau District Health Board,,Public Hospital,,,,-41.5344335,173.9541376
+32,32,Tamaki Oranga,30 Bairds Road,Papatoetoe,Auckland,2025,Counties Manukau District Health Board,,Public Hospital,,,,-36.847885,174.7474135
+33,33,Central Hawkes Bay Health Centre,1 Cook Street,,Waipukurau,4200,Hawke's Bay District Health Board,,Public Hospital,,,,-41.3242785,173.2297138
+34,34,Hawke's Bay Hospital,210 Omahu Road,Camberley,Hastings,4120,Hawke's Bay District Health Board,,Public Hospital,,,,-37.742462,176.1370835
+35,35,Wairoa Hospital & Health Centre,36 Kitchener Street,,Wairoa,4108,Hawke's Bay District Health Board,,Public Hospital,,,,-35.6950886,174.3325857
+36,36,Hutt Valley Hospital,638 High Street,Boulcott,Lower Hutt,5010,Hutt Valley District Health Board,,Public Hospital,,,,-43.5112131,172.6223412
+37,37,Rotorua Hospital,Corner of Arawa Street and Pukeroa Hill,,Rotorua,3010,Lakes District Health Board,,Public Hospital,,,,-36.964617,174.9052788
+38,38,Taupo Hospital,38 Kotare Street,Hilltop,Taupo,3330,Lakes District Health Board,,Public Hospital,,,,-45.84787295,170.5318783
+39,39,Horowhenua Health Centre,62 Liverpool Street,,Levin,5510,MidCentral District Health Board,,Public Hospital,,,,-36.8455215,174.7703451
+40,40,Palmerston North Hospital,50 Ruahine Street,Roslyn,Palmerston North,4414,MidCentral District Health Board,,Public Hospital,,,,-36.8803768,174.8118722
+41,41,Te Papaioea Birthing Centre,117 Ruahine Street,Roslyn,Palmerston North,4414,MidCentral District Health Board,,Public Hospital,,,,-37.7883069,175.2903534
+42,42,Alexandra Hospital,Gilbert Street,Richmond,Nelson,7020,Nelson Marlborough District Health Board,,Public Hospital,,,,-36.40084416,174.6541935
+43,43,Mental Health Admissions Unit,65 Tipahi Street,Nelson South,Nelson,7010,Nelson Marlborough District Health Board,,Public Hospital,,,,-40.9470552,175.6725983
+44,44,Murchison Hospital and Health Centre,58 Hotham Street,,Murchison,7007,Nelson Marlborough District Health Board,,Public Hospital,,,,-44.3858177,171.2156999
+45,45,Nelson Bays Maternity Unit (Te Whare Whanau),15 Courtney Street,,Motueka,7120,Nelson Marlborough District Health Board,,Public Hospital,,,,-41.1296558,173.0080598
+46,46,Nelson Hospital,98 Waimea Road,Nelson South,Nelson,7010,Nelson Marlborough District Health Board,,Public Hospital,,,,-36.8812416,174.7721431
+47,47,Tipahi Street Mental Health,59 Tipahi Street,Nelson South,Nelson,7010,Nelson Marlborough District Health Board,,Public Hospital,,,,-36.8791865,174.7711067
+48,48,Wairau Hospital,30 Hospital Road,Witherlea,Blenheim,7201,Nelson Marlborough District Health Board,,Public Hospital,,,,-43.5206741,172.6344055
+49,49,Bay of Islands Hospital,Hospital Road,,Kawakawa,210,Northland District Health Board,,Public Hospital,,,,-37.7889297,175.2905872
+50,50,Dargaville Hospital,73 Awakino Road,,Dargaville,310,Northland District Health Board,,Public Hospital,,,,-46.4071085,168.3535626
+51,51,Kaitaia Hospital,29 Redan Road,,Kaitaia,410,Northland District Health Board,,Public Hospital,,,,-39.0584428,174.0632979
+52,52,Timatanga Hou - Detox Unit,77 Awakino Road,,Dargaville,310,Northland District Health Board,,Public Hospital,,,,-35.9163846,173.8675466
+53,53,Whangarei Hospital,115 Maunu Road,Woodhill,Whangarei,110,Northland District Health Board,,Public Hospital,,,,-38.1585406,176.2384741
+54,54,Timaru Hospital,14 Queen Street,Parkside,Timaru,7910,South Canterbury District Health Board,,Public Hospital,,,,-41.30941555,174.7755261
+55,55,Dunedin Hospital,275 Great King Street,Dunedin Central,Dunedin,9016,Southern District Health Board,,Public Hospital,,,,-43.5156353,172.6243668
+56,56,Lakes District Hospital,20 Douglas Street,Frankton,Queenstown,9300,Southern District Health Board,,Public Hospital,,,,-45.0232754,168.7357644
+57,57,Southland Hospital,145 Kew Road,Kew,Invercargill,9812,Southern District Health Board,,Public Hospital,,,,-39.6812239,175.7957078
+58,58,Wakari Hospital,369 Taieri Road,Halfway Bush,Dunedin,9010,Southern District Health Board,,Public Hospital,,,,-40.2119493,176.0983939
+59,59,Gisborne Hospital,421 Ormond Road,Lytton West,Gisborne,4010,Tairawhiti District Health Board,,Public Hospital,,,,-38.00663546,175.3393822
+60,60,Hawera Hospital,41 Hunter Street,,Hawera,4610,Taranaki District Health Board,,Public Hospital,,,,-41.2178631,174.9045367
+61,61,Taranaki Base Hospital,118 Tukapa Street,Westown,New Plymouth,4310,Taranaki District Health Board,,Public Hospital,,,,-36.8872079,174.8004688
+62,62,Henry Rongomau Bennett Centre,183 Pembroke Street,Waikato Hospital,Hamilton,3204,Waikato District Health Board,,Public Hospital,,,,-36.8739505,174.7701466
+63,63,Matariki Hospital,389 Kihikihi Road,,Te Awamutu,3800,Waikato District Health Board,,Public Hospital,,,,-38.6648086,178.0181538
+64,64,Puna Whiti,183 Pembroke Street,Waikato Hospital,Hamilton,3204,Waikato District Health Board,,Public Hospital,,,,-41.5346068,173.9458909
+65,65,Rhoda Read Hospital,222 Studholme Street,,Morrinsville,3300,Waikato District Health Board,,Public Hospital,,,,-39.6426461,176.8366439
+66,66,Taumarunui Hospital and Family Health Team,6 Whanganui River Road,,Taumarunui,3920,Waikato District Health Board,,Public Hospital,,,,-41.3104341,174.7826958
+67,67,Te Kuiti Hospital,24 Ailsa Street,,Te Kuiti,3910,Waikato District Health Board,,Public Hospital,,,,-37.0040464,174.9176915
+68,68,Thames Hospital,606 MacKay Street,,Thames,3500,Waikato District Health Board,,Public Hospital,,,,-37.8016457,175.3069163
+69,69,Tokoroa Hospital,75 Maraetai Road,,Tokoroa,3420,Waikato District Health Board,,Public Hospital,,,,-38.2299504,175.8597485
+70,70,Waikato Hospital,183 Pembroke Street,Waikato Hospital,Hamilton,3240,Waikato District Health Board,,Public Hospital,,,,-45.09904225,170.9686653
+71,71,Ward OPR1,183 Pembroke Street,Waikato Hospital,Hamilton,3204,Waikato District Health Board,,Public Hospital,,,,-37.7931358,175.2889155
+72,72,Wairarapa Hospital,20 Te Ore Ore Road,Lansdowne,Masterton,5910,Wairarapa District Health Board,,Public Hospital,,,,-40.9467006,175.6744461
+73,73,Elective Surgery Centre,124 Shakespeare Road,Takapuna,Auckland,622,Waitemata District Health Board,,Public Hospital,,,,-36.78162315,174.7569005
+74,74,He Puna Waiora,132 Shakespeare Road,Takapuna,Auckland,622,Waitemata District Health Board,,Public Hospital,,,,-36.7802532,174.7555869
+75,75,North Shore Hospital,132 Shakespeare Road,Takapuna,Auckland,622,Waitemata District Health Board,,Public Hospital,,,,-36.7802532,174.7555869
+76,76,Pitman House,50 Carrington Road,Point Chevalier,Auckland,1025,Auckland District Health Board,,Public Hospital,,,,-36.8736682,174.7103945
+77,77,Waiatarau Inpatient Mental Health Unit,75 Lincoln Road,Henderson,Auckland,610,Waitemata District Health Board,,Public Hospital,,,,-36.8695563,174.6306163
+78,78,Waitakere Hospital,55 Lincoln Road,Henderson,Auckland,610,Waitemata District Health Board,,Public Hospital,,,,-36.8695563,174.6306163
+79,79,Wilson Centre,1 St Leonards Road,Hauraki,Auckland,622,Waitemata District Health Board,,Public Hospital,,,,-36.79982477,174.7880361
+80,80,Buller Health,45 Derby Street,,Westport,7825,West Coast District Health Board,,Public Hospital,,,,-41.7492183,171.6049104
+81,81,Grey Base Hospital,71 Water Walk Road,,Greymouth,7805,West Coast District Health Board,,Public Hospital,,,,-42.4632729,171.1920975
+82,82,Whanganui Hospital,100 Heads Road,Gonville,Wanganui,4501,Whanganui District Health Board,,Public Hospital,,,,-39.9451161,175.0370516
+83,83,Bowen Hospital,98 Churchill Drive,Crofton Downs,Wellington,6035,Capital and Coast District Health Board,,NGO Hospital,,,,-41.25916475,174.7670579
+84,84,Royston Hospital,500 Southland Road,,Hastings,4122,Hawke's Bay District Health Board,,NGO Hospital,,,,-39.6393198,176.8365016
+85,85,Wakefield Hospital,30 Florence Street,Newtown,Wellington,6021,Capital and Coast District Health Board,,NGO Hospital,,,,-41.3166673,174.7791441
+86,86,Anglesea Hospital,Knox Street,Hamilton Central,Hamilton,3204,Waikato District Health Board,,NGO Hospital,,,,-37.7914612,175.2851755
+87,87,Arohanui Hospice Service Trust,1 Heretaunga Street,,Palmerston North,4414,MidCentral District Health Board,,NGO Hospital,,,,-40.337336,175.6163028
+88,88,The Ashburn Clinic,496 Taieri Road,Halfway Bush,Dunedin,9010,Southern District Health Board,,NGO Hospital,,,,-45.8523532,170.4593955
+89,89,Belverdale Hospital,5 Campbell Street,,Wanganui,4500,Whanganui District Health Board,,NGO Hospital,,,,-39.9295215,175.0506686
+90,90,Bidwill Trust Hospital,53 Elizabeth Street,Seaview,Timaru,7910,South Canterbury District Health Board,,NGO Hospital,,,,-44.3946634,171.2424688
+91,91,Birthcare Auckland,20 Titoki Street,Parnell,Auckland,1052,Auckland District Health Board,,NGO Hospital,,,,-36.8622095,174.7796385
+92,92,Birthcare Huntly,5 Onslow Street,,Huntly,3700,Waikato District Health Board,,NGO Hospital,,,,-37.555713,175.1604751
+93,93,Bethlehem Birthing Centre,1 Te Paeroa Road,Bethlehem,Tauranga,3110,Bay of Plenty District Health Board,,NGO Hospital,,,,-37.6936595,176.1071535
+94,94,Nga Hau Mangere Birthing Centre,14 Waddon Place,Mangere,Auckland,2022,Counties Manukau District Health Board,,NGO Hospital,,,,-36.9708868,174.7992164
+95,95,Te Awakairangi Birthing Centre,2 Connolly Street,Hutt Central,Lower Hutt,5010,Hutt Valley District Health Board,,NGO Hospital,,,,-41.2039644,174.9120569
+96,96,Boulcott Hospital,666 High Street,Boulcott,Lower Hutt,5010,Hutt Valley District Health Board,,NGO Hospital,,,,-41.2033481,174.9263451
+97,97,Braemar Hospital,24 Ohaupo Road,Hamilton Lake,Hamilton,3204,Waikato District Health Board,,NGO Hospital,,,,-37.8078978,175.2789925
+98,98,Dunstan Hospital,Hospital Road,,Clyde,9391,Southern District Health Board,,NGO Hospital,,,,-45.1919951,169.3210276
+99,99,Winton Maternity Centre,384 Great North Road,,Winton,9720,Southern District Health Board,,NGO Hospital,,,,-46.1348074,168.3259065
+100,100,Charlotte Jean Maternity Hospital,26 Ventry Street,,Alexandra,9320,Southern District Health Board,,NGO Hospital,,,,-45.253165,169.3878979
+101,101,Clutha Health First,9 Charlotte Street,,Balclutha,9230,Southern District Health Board,,NGO Hospital,,,,-46.236754,169.7395687
+102,102,Wellsford Birthing Unit,218 Rodney Street,,Wellsford,900,Waitemata District Health Board,,NGO Hospital,,,,-36.292827,174.524486
+103,103,Crest Hospital ,21 Carroll Street,,Palmerston North,4410,MidCentral District Health Board,,NGO Hospital,,,,-40.3490226,175.6116388
+104,104,Endoscopy Auckland,148 Gillies Avenue,Epsom,Auckland,1023,Auckland District Health Board,,NGO Hospital,,,,-36.8800923,174.7724292
+105,105,Forte Health Hospital,132 Peterborough Street,Christchurch Central,Christchurch,8013,Canterbury District Health Board,,NGO Hospital,,,,-43.5262993,172.6378126
+106,106,Franklin Private Hospital,12 Glasgow Road,,Pukekohe,2120,Counties Manukau District Health Board,,NGO Hospital,,,,-37.2076533,174.9073996
+107,107,Gore Health Limited,9 Birch Lane,,Gore,9710,Southern District Health Board,,NGO Hospital,,,,-46.1031953,168.937388
+108,108,Helensville Birthing Centre,53 Commercial Road,,Helensville,800,Waitemata District Health Board,,NGO Hospital,,,,-36.675681,174.451024
+109,109,Hospice Southland,75 Kew Road,Kew,Invercargill,9812,Southern District Health Board,,NGO Hospital,,,,-36.9213369,174.9129991
+110,110,Te Rangimarie Hospice,5 David Street,Westown,New Plymouth,4310,Taranaki District Health Board,,NGO Hospital,,,,-39.0735868,174.0583019
+111,111,Hospice Wanganui,78 Virginia Road,Otamatea,Wanganui,4500,Whanganui District Health Board,,NGO Hospital,,,,-39.907202,175.026629
+112,112,Kensington Hospital,12 Kensington Avenue,Kensington,Whangarei,112,Northland District Health Board,,NGO Hospital,,,,-35.7086063,174.3202002
+113,113,Manuka Street Hospital,36 Manuka Street,,Nelson,7010,Nelson Marlborough District Health Board,,NGO Hospital,,,,-41.2785985,173.2904762
+114,114,Hospice Marlborough,100A Hospital Road,Witherlea,Blenheim,7201,Nelson Marlborough District Health Board,,NGO Hospital,,,,-41.5344335,173.9541376
+115,115,Mercy Hospice,61 College Hill,Freemans Bay,Auckland,1011,Auckland District Health Board,,NGO Hospital,,,,-36.847885,174.7474135
+116,116,Nelson Tasman Hospice,331 Suffolk Road,Stoke,Nelson,7011,Nelson Marlborough District Health Board,,NGO Hospital,,,,-41.3242785,173.2297138
+117,117,Grace Hospital,281 Cheyne Road,Pyes Pa,Tauranga,3112,Bay of Plenty District Health Board,,NGO Hospital,,,,-37.742462,176.1370835
+118,118,North Haven Hospice,24a Takahe Street,Tikipunga,Whangarei,112,Northland District Health Board,,NGO Hospital,,,,-35.6950886,174.3325857
+119,119,Nurse Maude Hospice,15 Mansfield Avenue,St Albans,Christchurch,8014,Canterbury District Health Board,,NGO Hospital,,,,-43.5112131,172.6223412
+120,120,Ormiston Surgical & Endoscopy,125 Ormiston Road,Flat Bush,Auckland,2016,Counties Manukau District Health Board,,NGO Hospital,,,,-36.964617,174.9052788
+121,121,Otago Community Hospice,293 North Road,North East Valley,Dunedin,9010,Southern District Health Board,,NGO Hospital,,,,-45.84787295,170.5318783
+122,122,Quay Park Surgical Ltd,68 Beach Road,Auckland Central,Auckland,1010,Auckland District Health Board,,NGO Hospital,,,,-36.8455215,174.7703451
+123,123,Remuera Surgical Care,122 Remuera Road,Remuera,Auckland,1050,Auckland District Health Board,,NGO Hospital,,,,-36.8803768,174.8118722
+124,124,River Ridge East Birth Centre,35 Von Tempsky Street,Hamilton East,Hamilton,3216,Waikato District Health Board,,NGO Hospital,,,,-37.7883069,175.2903534
+125,125,Warkworth Birthing Centre,56 View Road,,Warkworth,910,Waitemata District Health Board,,NGO Hospital,,,,-36.40084416,174.6541935
+126,126,Selina Sutherland Hospital,17 Blair Street,Lansdowne,Masterton,5810,Wairarapa District Health Board,,NGO Hospital,,,,-40.9470552,175.6725983
+127,127,Hospice South Canterbury,55 Broadway Avenue,Highfield,Timaru,7910,South Canterbury District Health Board,,NGO Hospital,,,,-44.3858177,171.2156999
+128,128,Auckland Surgical Centre,9 St Marks Road,Remuera,Auckland,1050,Auckland District Health Board,,NGO Hospital,,,,-41.1296558,173.0080598
+129,129,Gillies Hospital,160 Gillies Avenue,Epsom,Auckland,1023,Auckland District Health Board,,NGO Hospital,,,,-36.8812416,174.7721431
+130,130,Southern Cross Hospital Brightside,3 Brightside Road,Epsom,Auckland,1023,Auckland District Health Board,,NGO Hospital,,,,-36.8791865,174.7711067
+131,131,Southern Cross Hospital Christchurch,131 Bealey Avenue,Christchurch Central,Christchurch,8013,Canterbury District Health Board,,NGO Hospital,,,,-43.5206741,172.6344055
+132,132,Southern Cross Hospital Hamilton,21 Von Tempsky Street,Hamilton East,Hamilton,3216,Waikato District Health Board,,NGO Hospital,,,,-37.7889297,175.2905872
+133,133,Southern Cross Hospital Invercargill,108 Deveron Street,,Invercargill,9810,Southern District Health Board,,NGO Hospital,,,,-46.4071085,168.3535626
+134,134,Southern Cross Hospital New Plymouth,205 St Aubyn Street,,New Plymouth,4310,Taranaki District Health Board,,NGO Hospital,,,,-39.0584428,174.0632979
+135,135,Southern Cross Hospital North Harbour,232 Wairau Road,Wairau Valley,Auckland,627,Waitemata District Health Board,,NGO Hospital,,,,-35.9163846,173.8675466
+136,136,Southern Cross Hospital Rotorua,58 Otonga Road,Springfield,Rotorua,2015,Lakes District Health Board,,NGO Hospital,,,,-38.1585406,176.2384741
+137,137,Southern Cross Hospital Wellington,90 Hanson Street,Newtown,Wellington,6021,Capital and Coast District Health Board,,NGO Hospital,,,,-41.30941555,174.7755261
+138,138,St George's Hospital,249 Papanui Road,Strowan,Christchurch,8014,Canterbury District Health Board,,NGO Hospital,,,,-43.5156353,172.6243668
+139,139,St Marks Road Surgical Centre,3 St Marks Road,Remuera,Auckland,1050,Auckland District Health Board,,NGO Hospital,,,,-45.0232754,168.7357644
+140,140,Taihape Health Limited,3 Hospital Road,,Taihape,4720,Whanganui District Health Board,,NGO Hospital,,,,-39.6812239,175.7957078
+141,141,Dannevirke Community Hospital,26 Barraud Street,,Dannevirke,4930,MidCentral District Health Board,,NGO Hospital,,,,-40.2119493,176.0983939
+142,142,Te Awamutu Birthing,15/670 Cambridge Road,,Te Awamutu,3800,Waikato District Health Board,,NGO Hospital,,,,-38.00663546,175.3393822
+143,143,Te Omanga Hospice,136 Woburn Road,Woburn,Lower Hutt,5010,Hutt Valley District Health Board,,NGO Hospital,,,,-41.2178631,174.9045367
+144,144,Ascot Integrated Hospital,90 Green Lane East,Remuera,Auckland,1051,Auckland District Health Board,,NGO Hospital,,,,-36.8872079,174.8004688
+145,145,Mercy Integrated Hospital,98 Mountain Road,Epsom,Auckland,1023,Auckland District Health Board,,NGO Hospital,,,,-36.8739505,174.7701466
+146,146,Chelsea Hospital Trust,189 Cobden Street,,Gisborne,4010,Tairawhiti District Health Board,,NGO Hospital,,,,-38.6648086,178.0181538
+147,147,Churchill Private Hospital,30 Hospital Road,Witherlea,Blenheim,7201,Nelson Marlborough District Health Board,,NGO Hospital,,,,-41.5346068,173.9458909
+148,148,The Cranford Hospice ,300 Knight Street,,Hastings,4122,Hawke's Bay District Health Board,,NGO Hospital,,,,-39.6426461,176.8366439
+149,149,Mary Potter Hospice,48 Mein Street,Newtown,Wellington,6021,Capital and Coast District Health Board,,NGO Hospital,,,,-41.3104341,174.7826958
+150,150,Totara Hospice,140 Charles Prevost Drive,The Gardens,Auckland,2105,Counties Manukau District Health Board,,NGO Hospital,,,,-37.0040464,174.9176915
+151,151,Hospice Waikato,334 Cobham Drive,Hillcrest,Hamilton,3216,Waikato District Health Board,,NGO Hospital,,,,-37.8016457,175.3069163
+152,152,Waipuna Hospice,43 Te Puna Station Road,RD 6,Tauranga,3176,Bay of Plenty District Health Board,,NGO Hospital,,,,-38.2299504,175.8597485
+153,153,Oamaru Hospital,8 Steward Street,,Oamaru,9400,Southern District Health Board,,NGO Hospital,,,,-45.09904225,170.9686653
+154,154,Waterford Birth Centre,27 Tisdall Terrace,Hamilton Central,Hamilton,3204,Waikato District Health Board,,NGO Hospital,,,,-37.7931358,175.2889155
