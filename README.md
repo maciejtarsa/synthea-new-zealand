@@ -31,7 +31,7 @@ For adaptation to other countries, Synthea requires a very specific set of files
 
 Producing the file `demographic.csv` was the most time consuming part. It included agregating together infomrmation from 4 subsets of the census - ethnicity, education level, population, income level. The goal was to combine data to obtain the following per areas of New Zealand: region, estimated population per area and per region, gender split, ethnicity split, age group split, income group split and education level split.<br><br>
 As Synthea by default uses USA population, the ethnicity is geared towards the population of the US. This means that some countries would be harder to adapt. For example, the main ethnicities in New Zealand are `European`, `Maori` and `Pacific Islanders`. Within Synthea, `European` would be classed as `White` and both `Maori` and `Pacific Islanders` as `Native`. Some important information about differences between ethnicities could be lost.<br><br>
-GeoPy was also used to produce file `zipcodes.csv`, which include postcode and geographical coordinates for each area from file `demographics.csv`, as well as `hospitals.csv` which contain location of hospitals in New Zealand.
+GeoPy was also used to produce file `zipcodes.csv`, which include postcodes and geographical coordinates for each area from file `demographics.csv`, as well as `hospitals.csv` which contains locations of hospitals in New Zealand.
 
 ## Running in Synthea
 In order to run Synthea for the population of New Zealand, follow the following steps. This will generate 10 synthetic patients from New Zealand living in the area of Wellington, location Glendale.
